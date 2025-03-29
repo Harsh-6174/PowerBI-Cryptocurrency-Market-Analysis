@@ -1,7 +1,7 @@
 # Cryptocurrency Market Analysis
 
 ## Project Overview
-This project analyzes the cryptocurrency market using real-time API data and Power BI visualizations. The goal is to extract key insights into market trends, trading volumes, and price fluctuations, helping investors and analysts make informed decisions.
+This project analyzes the cryptocurrency market using cryptocurrencies data and Power BI visualizations. The goal is to extract key insights into market trends, trading volumes, and price fluctuations, helping investors and analysts make informed decisions.
 
 ## Dataset 
 The dataset consists of cryptocurrency market data covering:
